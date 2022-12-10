@@ -18,7 +18,7 @@ How To Secure Distributed Systems Using Oauth2 OIDC JWT <br>
 &ensp;&ensp;&ensp;&ensp;- Changer les paramètres des Tokens Access Token et Refresh Token<br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/63150702/206858171-1383cc6f-125b-4399-b69b-da5b04c6c109.png" width=800 height=500/> 
+<img src="https://user-images.githubusercontent.com/63150702/206858171-1383cc6f-125b-4399-b69b-da5b04c6c109.png"/> 
 </p>
 
 ## 1. Télécharger Keycloak
